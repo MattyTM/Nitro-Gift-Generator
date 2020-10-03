@@ -1,4 +1,5 @@
 #Nitro Generator by Matty#8952
+#Discord server: https://discord.gg/UgJhHu7
 import random
 import string
 import pathlib
